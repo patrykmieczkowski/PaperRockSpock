@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Paper Rock Spock</string>
+    <string name="vs_ai">vs AI</string>
+    <string name="vs_player">vs Player</string>
+    <string name="how_to">How to play</string>
+    <string name="exit">Exit</string>
+    <string name="title_activity_play_vs_ai_screen">PlayVsAiScreen</string>
+    <string name="score">SCORE</string>
+    <string name="you">You: </string>
+    <string name="computer">Computer: </string>
+    <string name="title_activity_how_to">HowTo</string>
+    <string name="logo_black">Logo Black</string>
+    <string name="rules">Scissors cut Paper \nPaper covers Rock\nRock crushes Lizard\nLizard poisons Spock
+    \nSpock smashes Scissors\nScissors decapitate Lizard\nLizard eats Paper\nPaper disproves Spock
+    \nSpock vaporizes Rock\nRock crushes Scissors</string>
+    <string name="enemy_choice">Enemy Choice</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="rock">Rock</string>
+    <string name="lizard">Lizard</string>
+    <string name="spock">Spock</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="player1name">Player 1 name:</string>
+    <string name="player2name">Player 2 name:</string>
+    <string name="title_activity_pvp">Pvp</string>
+    <string name="again">Play again?</string>
+    <string name="loser">Loser</string>
+    <string name="winner">Winner</string>
+    <string name="change">Change</string>
+    <string name="back">Back to Menu</string>
+    <string name="beats">beats</string>
+    <string name="options">Options</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_options">Options</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

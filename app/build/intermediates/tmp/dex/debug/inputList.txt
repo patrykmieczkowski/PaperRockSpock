@@ -1,0 +1,3 @@
+E:\Projects\PaperRockSpock\app\build\intermediates\classes\debug
+E:\Projects\PaperRockSpock\app\build\intermediates\pre-dexed\debug\classes-fcb1796d2cdf14b35bd53b3189950a2368cbd3cb.jar
+E:\Projects\PaperRockSpock\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-aed67c68bf5c87f28bdf115a9112757291651370.jar
